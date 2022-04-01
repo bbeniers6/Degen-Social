@@ -1,5 +1,5 @@
-const DegenSoc = artifacts.require("DegenSoc");
+const DegenSocial = artifacts.require("DegenSocial");
 
 module.exports = function(deployer) {
-    deployer.deploy(DegenSoc);
+    deployer.deploy(DegenSocial);
 };
