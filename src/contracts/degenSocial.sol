@@ -1,6 +1,6 @@
 pragma solidity ^0.5.0;
 
-contract Marketplace {
+contract DegenSoc {
     string public name;
 
     constructor() public {
